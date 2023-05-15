@@ -1,0 +1,2 @@
+# terraform_for_gke
+這是一個使用terraform來建立gke cluster的demo
